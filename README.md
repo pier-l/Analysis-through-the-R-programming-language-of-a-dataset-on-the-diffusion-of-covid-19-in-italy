@@ -10,7 +10,7 @@ The dataset contains 390 records, 4 fields (listed in the table below), 6 age gr
 | country     | 
 | year_week   |
 | age_group   | 
-| new cases   | 
+| new_cases   | 
 
 ## Exploratory analysis
 
